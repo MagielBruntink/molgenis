@@ -5,3 +5,5 @@ languages:
 - php
 - javascript
 - script
+exclude:
+- /molgenis-core-ui/src/main/resources/js/
